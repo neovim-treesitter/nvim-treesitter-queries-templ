@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/vrischmann/tree-sitter-templ",
   "semver": false,
   "parser_version": "1c6db04effbcd7773c826bded9783cbc3061bd55",
   "location": null,
-  "lang": "templ"
+  "lang": "templ",
+  "url": "https://github.com/vrischmann/tree-sitter-templ"
 }
